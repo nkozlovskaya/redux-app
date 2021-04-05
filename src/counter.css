@@ -1,0 +1,17 @@
+.btn-inc{
+  /* type:"text"; */
+  enable-background:new 0 0 50 50;
+  color:#fff
+}
+
+.btn-dec{
+  /* type:"text"; */
+  enable-background:new 0 0 50 20;
+  color:#fff
+}
+
+.btn-rec{
+  /* type:"text"; */
+  enable-background:new 0 0 50 50;
+  color:#fff
+}
